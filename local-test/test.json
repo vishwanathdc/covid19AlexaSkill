@@ -1,0 +1,146 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.c59cfe1d-afd5-4cbb-bcf5-5257b46e9765",
+		"application": {
+			"applicationId": "amzn1.ask.skill.70fb2da9-9ed4-4fe2-9413-27b2cf2c223e"
+		},
+		"attributes": {
+			"lastSpeech": "There are 825 TotalDeaths cases in India."
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AFPPWPFQ6PN2CQEO56I7XCG4NOHQMHJ5QJZRIMNTTEHHPKQN5VKGWD3EO4FT374WKP47TY6MJ43P2HPMAIIAHZWMZVXPAIB7E5YEWR5GAYBOKHULXX4AMNVFIGM24HMGERTFERJZWDN5WAD33II7PTXWTPWBWRCHNA42KAZO3BURGJG754BIOK2ZPGQYQTMEUZR5NBRJTSN4HIA"
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.70fb2da9-9ed4-4fe2-9413-27b2cf2c223e"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AFPPWPFQ6PN2CQEO56I7XCG4NOHQMHJ5QJZRIMNTTEHHPKQN5VKGWD3EO4FT374WKP47TY6MJ43P2HPMAIIAHZWMZVXPAIB7E5YEWR5GAYBOKHULXX4AMNVFIGM24HMGERTFERJZWDN5WAD33II7PTXWTPWBWRCHNA42KAZO3BURGJG754BIOK2ZPGQYQTMEUZR5NBRJTSN4HIA"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AE2YTP6RZLBTYVQEDMD4U3YQIER4ULH7VA5NLMMWBT7LA5GW4MBXBAZYPRRNOXXFV3ZV6SFZF7TH2PFGBDVJUW5JC545N4NMXYEYDIFCC43NOMM5WAGWXAK5ZNNVNVSSJREDU7JYDUTI67633BSWKK2VNNFZXSJU5VSEHA6U45G5DK55VAUX6",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjcwZmIyZGE5LTllZDQtNGZlMi05NDEzLTI3YjJjZjJjMjIzZSIsImV4cCI6MTU4Nzk0NjQ4OCwiaWF0IjoxNTg3OTQ2MTg4LCJuYmYiOjE1ODc5NDYxODgsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFCYkR3VTVFVjV6MzNCQ1lPYXBmNDFwS2dFQUFBQUFBQUE1Y1BTVmJ0VmI1Q002alpxb2lwdVBseUVvMER3TTBBelJ6bjFFM1JhUlhXQ1pEYVo0akgxdi92RXplWS9FRCtpcFE0NEgyV0l6UjRtbkN4MEJIVk1KV210UEZtbVhlRFNsZmt1aEJGYTl6OFRNRlN0dUx0bURjdStQa1Vkdkw3dElsc2RYQ2FDT1VuWmFhUi8zL29mYWRZMHhRTHJWRjdtRGdrRXZDc2YrcStpd2tWVEV0RnRMNmhZZ1ZrOEJxcXRvVUlheitualkvZnkydUtNMy9sc0NHSkQ0VWcvRllDTVdBSHVuL0R1c25kbnd3ZXJhRWRERjlaNGN3V2h6WXJnWjJuaHBvb1VmYUhiMktBRE1IRyt4eFAvWnFRWU1MWG03YnlnRGVPS1VLK2xFUENLL0tnVndkWXc5WllHUXhlOVBaRXBpODcwM2ZEU1VrNjYrSnc3bzBPNU1RSTlVTEdhcXl5czlWazRIUHhhNS9nakNmVVIzd0FiUlVSa3NGMGtGVmNEbXFlZDBiNUMvIiwiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUUyWVRQNlJaTEJUWVZRRURNRDRVM1lRSUVSNFVMSDdWQTVOTE1NV0JUN0xBNUdXNE1CWEJBWllQUlJOT1hYRlYzWlY2U0ZaRjdUSDJQRkdCRFZKVVc1SkM1NDVONE5NWFlFWURJRkNDNDNOT01NNVdBR1dYQUs1Wk5OVk5WU1NKUkVEVTdKWURVVEk2NzYzM0JTV0tLMlZOTkZaWFNKVTVWU0VIQTZVNDVHNURLNTVWQVVYNiIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFGUFBXUEZRNlBOMkNRRU81Nkk3WENHNE5PSFFNSEo1UUpaUklNTlRURUhIUEtRTjVWS0dXRDNFTzRGVDM3NFdLUDQ3VFk2TUo0M1AySFBNQUlJQUhaV01aVlhQQUlCN0U1WUVXUjVHQVlCT0tIVUxYWDRBTU5WRklHTTI0SE1HRVJURkVSSlpXRE41V0FEMzNJSTdQVFhXVFBXQldSQ0hOQTQyS0FaTzNCVVJHSkc3NTRCSU9LMlpQR1FZUVRNRVVaUjVOQlJKVFNONEhJQSJ9fQ.X7LPpKXgDzA86Y7wc0l4xYCB7jT-hkZI1uCXgHja3OlONdQwFYcTdAC-Ng_4b_cTr0B3EwYQ8_sJn4KYeaHHXIGb8_dwdaAbnorcmn8vqP_riOVQGhXChjGTtWiaLlbKUCQGKoGaRII7TuOZgV9sCURY78ZqTQjIs7J4ajsu90o5GGWHRmd2gT5Qt2ECjK4bstsN7I1SOmCZOMuGucPCJg8QbqgXVcsRZ1Fkg8E085ybsban8IWSZc1W8c5wCimHXpvI4MLpgC4XvqM2CMBGEJvKyn0CKe7TA1dCpd4pcbhIg_erRwm_tLp49j5B6ziuB6SSQnjU4cdJ2PHQ5pH1tQ"
+		},
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 246,
+					"arcMinuteHeight": 144,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"shape": "RECTANGLE",
+			"pixelWidth": 1024,
+			"pixelHeight": 600,
+			"dpi": 160,
+			"currentPixelWidth": 1024,
+			"currentPixelHeight": 600,
+			"touch": [
+				"SINGLE"
+			],
+			"video": {
+				"codecs": [
+					"H_264_42",
+					"H_264_41"
+				]
+			}
+		},
+		"Viewports": [
+			{
+				"type": "APL",
+				"id": "main",
+				"shape": "RECTANGLE",
+				"dpi": 160,
+				"presentationType": "STANDARD",
+				"canRotate": false,
+				"configuration": {
+					"current": {
+						"video": {
+							"codecs": [
+								"H_264_42",
+								"H_264_41"
+							]
+						},
+						"size": {
+							"type": "DISCRETE",
+							"pixelWidth": 1024,
+							"pixelHeight": 600
+						}
+					}
+				}
+			}
+		]
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.d01b4d4c-ed3a-466f-bb3c-4cbb7b68ec71",
+		"timestamp": "2020-04-27T00:09:48Z",
+		"locale": "en-US",
+		"intent": {
+			"name": "covid_status",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"country": {
+					"name": "country",
+					"confirmationStatus": "NONE"
+				},
+				"global": {
+					"name": "global",
+					"value": "globally",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.70fb2da9-9ed4-4fe2-9413-27b2cf2c223e.global",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "Global",
+											"id": "4cc6684df7b4a92b1dec6fce3264fac8"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"status": {
+					"name": "status",
+					"value": "total death",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.70fb2da9-9ed4-4fe2-9413-27b2cf2c223e.status",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "TotalDeaths",
+											"id": "d1ac754032bbefa8415ad1cfd22e0bf6"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		}
+	}
+}
