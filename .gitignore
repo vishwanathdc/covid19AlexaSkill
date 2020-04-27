@@ -1,3 +1,2 @@
-node_modules
-.vscode
-local-test
+node_modules/
+.vscode/
