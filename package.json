@@ -13,7 +13,7 @@
     "ask-sdk-model": "^1.0.0",
     "aws-sdk": "^2.500.0",
     "lambda-local": "^1.7.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.23",
     "promise": "^8.0.3",
     "request": "^2.88.0",
